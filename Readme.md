@@ -1,1 +1,1 @@
-# React SSR with Node.JS Express
+# Node.JS Express with TypeScript Template
