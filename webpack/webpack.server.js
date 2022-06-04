@@ -1,8 +1,11 @@
 const path = require("path");
+const dotenv = require("dotenv");
+
+dotenv.config();
 
 module.exports = {
     entry: "./src/index.ts",
-    mode: "development",
+    mode: process.env.ENV || "development",
     module: {
         rules: [
             {
