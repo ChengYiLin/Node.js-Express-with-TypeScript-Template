@@ -1,7 +1,7 @@
 {
-    "name": "server_side_render_with_react_and_express",
+    "name": "nodejs-express-with-typescript",
     "version": "1.0.0",
-    "description": "Server Side Rendering with React and Express",
+    "description": "Node.JS Express with TypeScript",
     "private": true,
     "scripts": {
         "dev": "webpack",
