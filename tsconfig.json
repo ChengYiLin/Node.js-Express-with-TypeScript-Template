@@ -1,5 +1,5 @@
 {
-    "include": ["src/**.*", "webpack/**.*"],
+    "include": ["src/**.*"],
     "compilerOptions": {
         "outDir": "./dist",
         "module": "es6",
